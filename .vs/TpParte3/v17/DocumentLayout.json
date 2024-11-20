@@ -3,36 +3,44 @@
   "WorkspaceRootPath": "D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Bases de datos I\\TPI\\TpParte3\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{AE6B396C-A3EE-4439-8B34-225177F482C4}|TpParte3\\TpParte3.csproj|D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Bases de datos I\\TPI\\TpParte3\\tpparte3\\negocio\\consultaservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE6B396C-A3EE-4439-8B34-225177F482C4}|TpParte3\\TpParte3.csproj|solutionrelative:tpparte3\\negocio\\consultaservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE6B396C-A3EE-4439-8B34-225177F482C4}|TpParte3\\TpParte3.csproj|D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Bases de datos I\\TPI\\TpParte3\\tpparte3\\presentacion\\frmconsultas.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE6B396C-A3EE-4439-8B34-225177F482C4}|TpParte3\\TpParte3.csproj|solutionrelative:tpparte3\\presentacion\\frmconsultas.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE6B396C-A3EE-4439-8B34-225177F482C4}|TpParte3\\TpParte3.csproj|D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Bases de datos I\\TPI\\TpParte3\\tpparte3\\presentacion\\frmnosotros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AE6B396C-A3EE-4439-8B34-225177F482C4}|TpParte3\\TpParte3.csproj|solutionrelative:tpparte3\\presentacion\\frmnosotros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE6B396C-A3EE-4439-8B34-225177F482C4}|TpParte3\\TpParte3.csproj|D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Bases de datos I\\TPI\\TpParte3\\tpparte3\\presentacion\\frmnosotros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE6B396C-A3EE-4439-8B34-225177F482C4}|TpParte3\\TpParte3.csproj|solutionrelative:tpparte3\\presentacion\\frmnosotros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE6B396C-A3EE-4439-8B34-225177F482C4}|TpParte3\\TpParte3.csproj|d:\\gabi\\usuarios\\facultad\\2do cuatrimestre\\bases de datos i\\tpi\\tpparte3\\tpparte3\\presentacion\\frmconsultas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE6B396C-A3EE-4439-8B34-225177F482C4}|TpParte3\\TpParte3.csproj|solutionrelative:tpparte3\\presentacion\\frmconsultas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{AE6B396C-A3EE-4439-8B34-225177F482C4}|TpParte3\\TpParte3.csproj|D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Bases de datos I\\TPI\\TpParte3\\tpparte3\\presentacion\\frmconsultas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{AE6B396C-A3EE-4439-8B34-225177F482C4}|TpParte3\\TpParte3.csproj|solutionrelative:tpparte3\\presentacion\\frmconsultas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AE6B396C-A3EE-4439-8B34-225177F482C4}|TpParte3\\TpParte3.csproj|d:\\gabi\\usuarios\\facultad\\2do cuatrimestre\\bases de datos i\\tpi\\tpparte3\\tpparte3\\presentacion\\frminicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{AE6B396C-A3EE-4439-8B34-225177F482C4}|TpParte3\\TpParte3.csproj|D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Bases de datos I\\TPI\\TpParte3\\tpparte3\\presentacion\\frminicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{AE6B396C-A3EE-4439-8B34-225177F482C4}|TpParte3\\TpParte3.csproj|solutionrelative:tpparte3\\presentacion\\frminicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AE6B396C-A3EE-4439-8B34-225177F482C4}|TpParte3\\TpParte3.csproj|D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Bases de datos I\\TPI\\TpParte3\\tpparte3\\presentacion\\frmconsultas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE6B396C-A3EE-4439-8B34-225177F482C4}|TpParte3\\TpParte3.csproj|solutionrelative:tpparte3\\presentacion\\frmconsultas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AE6B396C-A3EE-4439-8B34-225177F482C4}|TpParte3\\TpParte3.csproj|d:\\gabi\\usuarios\\facultad\\2do cuatrimestre\\bases de datos i\\tpi\\tpparte3\\tpparte3\\presentacion\\frmconsultas.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE6B396C-A3EE-4439-8B34-225177F482C4}|TpParte3\\TpParte3.csproj|solutionrelative:tpparte3\\presentacion\\frmconsultas.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AE6B396C-A3EE-4439-8B34-225177F482C4}|TpParte3\\TpParte3.csproj|D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Bases de datos I\\TPI\\TpParte3\\tpparte3\\presentacion\\frminicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE6B396C-A3EE-4439-8B34-225177F482C4}|TpParte3\\TpParte3.csproj|solutionrelative:tpparte3\\presentacion\\frminicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AE6B396C-A3EE-4439-8B34-225177F482C4}|TpParte3\\TpParte3.csproj|D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Bases de datos I\\TPI\\TpParte3\\tpparte3\\datos\\consultarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AE6B396C-A3EE-4439-8B34-225177F482C4}|TpParte3\\TpParte3.csproj|solutionrelative:tpparte3\\datos\\consultarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AE6B396C-A3EE-4439-8B34-225177F482C4}|TpParte3\\TpParte3.csproj|D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Bases de datos I\\TPI\\TpParte3\\tpparte3\\negocio\\consultaservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE6B396C-A3EE-4439-8B34-225177F482C4}|TpParte3\\TpParte3.csproj|solutionrelative:tpparte3\\negocio\\consultaservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{AE6B396C-A3EE-4439-8B34-225177F482C4}|TpParte3\\TpParte3.csproj|D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Bases de datos I\\TPI\\TpParte3\\tpparte3\\datos\\datahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AE6B396C-A3EE-4439-8B34-225177F482C4}|TpParte3\\TpParte3.csproj|solutionrelative:tpparte3\\datos\\datahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AE6B396C-A3EE-4439-8B34-225177F482C4}|TpParte3\\TpParte3.csproj|D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Bases de datos I\\TPI\\TpParte3\\tpparte3\\presentacion\\frminicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE6B396C-A3EE-4439-8B34-225177F482C4}|TpParte3\\TpParte3.csproj|solutionrelative:tpparte3\\presentacion\\frminicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,17 +50,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "FrmConsultas.cs",
               "DocumentMoniker": "D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Bases de datos I\\TPI\\TpParte3\\TpParte3\\Presentacion\\FrmConsultas.cs",
               "RelativeDocumentMoniker": "TpParte3\\Presentacion\\FrmConsultas.cs",
               "ToolTip": "D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Bases de datos I\\TPI\\TpParte3\\TpParte3\\Presentacion\\FrmConsultas.cs",
               "RelativeToolTip": "TpParte3\\Presentacion\\FrmConsultas.cs",
-              "ViewState": "AQIAACYCAAAAAAAAAAAcwDsCAAAiAAAA",
+              "ViewState": "AQIAAL4CAAAAAAAAAAAhwNUCAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-13T17:07:36.364Z",
               "IsPinned": true,
@@ -61,19 +69,44 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "FrmNosotros.cs",
+              "DocumentMoniker": "D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Bases de datos I\\TPI\\TpParte3\\TpParte3\\Presentacion\\FrmNosotros.cs",
+              "RelativeDocumentMoniker": "TpParte3\\Presentacion\\FrmNosotros.cs",
+              "ToolTip": "D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Bases de datos I\\TPI\\TpParte3\\TpParte3\\Presentacion\\FrmNosotros.cs",
+              "RelativeToolTip": "TpParte3\\Presentacion\\FrmNosotros.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIAwwBkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T00:37:24.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmNosotros.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Bases de datos I\\TPI\\TpParte3\\TpParte3\\Presentacion\\FrmNosotros.cs",
+              "RelativeDocumentMoniker": "TpParte3\\Presentacion\\FrmNosotros.cs",
+              "ToolTip": "D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Bases de datos I\\TPI\\TpParte3\\TpParte3\\Presentacion\\FrmNosotros.cs [Dise\u00F1o]",
+              "RelativeToolTip": "TpParte3\\Presentacion\\FrmNosotros.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T00:26:17.83Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "FrmConsultas.Designer.cs",
               "DocumentMoniker": "D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Bases de datos I\\TPI\\TpParte3\\TpParte3\\Presentacion\\FrmConsultas.Designer.cs",
               "RelativeDocumentMoniker": "TpParte3\\Presentacion\\FrmConsultas.Designer.cs",
               "ToolTip": "D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Bases de datos I\\TPI\\TpParte3\\TpParte3\\Presentacion\\FrmConsultas.Designer.cs",
               "RelativeToolTip": "TpParte3\\Presentacion\\FrmConsultas.Designer.cs",
-              "ViewState": "AQIAAIMEAAAAAAAAAAAgwAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-14T15:05:55.47Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "ConsultaServicio.cs",
               "DocumentMoniker": "D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Bases de datos I\\TPI\\TpParte3\\TpParte3\\Negocio\\ConsultaServicio.cs",
               "RelativeDocumentMoniker": "TpParte3\\Negocio\\ConsultaServicio.cs",
@@ -86,7 +119,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "ConsultaRepositorio.cs",
               "DocumentMoniker": "D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Bases de datos I\\TPI\\TpParte3\\TpParte3\\Datos\\ConsultaRepositorio.cs",
               "RelativeDocumentMoniker": "TpParte3\\Datos\\ConsultaRepositorio.cs",
@@ -94,12 +127,11 @@
               "RelativeToolTip": "TpParte3\\Datos\\ConsultaRepositorio.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAABAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-13T18:48:04.528Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-13T18:48:04.528Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "DataHelper.cs",
               "DocumentMoniker": "D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Bases de datos I\\TPI\\TpParte3\\TpParte3\\Datos\\DataHelper.cs",
               "RelativeDocumentMoniker": "TpParte3\\Datos\\DataHelper.cs",
@@ -107,32 +139,29 @@
               "RelativeToolTip": "TpParte3\\Datos\\DataHelper.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-13T18:44:17.777Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-13T18:44:17.777Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "FrmConsultas.cs [Dise\u00F1o]",
               "DocumentMoniker": "D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Bases de datos I\\TPI\\TpParte3\\TpParte3\\Presentacion\\FrmConsultas.cs",
               "RelativeDocumentMoniker": "TpParte3\\Presentacion\\FrmConsultas.cs",
               "ToolTip": "D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Bases de datos I\\TPI\\TpParte3\\TpParte3\\Presentacion\\FrmConsultas.cs [Dise\u00F1o]",
               "RelativeToolTip": "TpParte3\\Presentacion\\FrmConsultas.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-13T17:20:02.419Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2024-11-13T17:20:02.419Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "FrmInicio.cs [Dise\u00F1o]",
               "DocumentMoniker": "D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Bases de datos I\\TPI\\TpParte3\\TpParte3\\Presentacion\\FrmInicio.cs",
               "RelativeDocumentMoniker": "TpParte3\\Presentacion\\FrmInicio.cs",
               "ToolTip": "D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Bases de datos I\\TPI\\TpParte3\\TpParte3\\Presentacion\\FrmInicio.cs [Dise\u00F1o]",
               "RelativeToolTip": "TpParte3\\Presentacion\\FrmInicio.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T23:25:30.813Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2024-11-06T23:25:30.813Z"
             },
             {
               "$type": "Document",
@@ -142,7 +171,7 @@
               "RelativeDocumentMoniker": "TpParte3\\Presentacion\\FrmInicio.cs",
               "ToolTip": "D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Bases de datos I\\TPI\\TpParte3\\TpParte3\\Presentacion\\FrmInicio.cs",
               "RelativeToolTip": "TpParte3\\Presentacion\\FrmInicio.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABYAAAAJAAAA",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwCYAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-06T23:05:56.663Z"
             }

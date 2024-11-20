@@ -29,6 +29,7 @@
         private void InitializeComponent()
         {
             groupBox1 = new GroupBox();
+            cboInicio = new ComboBox();
             BtnEntrar = new Button();
             lblInicio = new Label();
             pictureBox1 = new PictureBox();
@@ -40,6 +41,7 @@
             // 
             groupBox1.Anchor = AnchorStyles.Top | AnchorStyles.Bottom | AnchorStyles.Left;
             groupBox1.BackColor = SystemColors.MenuHighlight;
+            groupBox1.Controls.Add(cboInicio);
             groupBox1.Controls.Add(BtnEntrar);
             groupBox1.Controls.Add(lblInicio);
             groupBox1.ForeColor = Color.Transparent;
@@ -49,6 +51,15 @@
             groupBox1.Size = new Size(203, 488);
             groupBox1.TabIndex = 0;
             groupBox1.TabStop = false;
+            // 
+            // cboInicio
+            // 
+            cboInicio.DropDownStyle = ComboBoxStyle.DropDownList;
+            cboInicio.FormattingEnabled = true;
+            cboInicio.Location = new Point(24, 77);
+            cboInicio.Name = "cboInicio";
+            cboInicio.Size = new Size(158, 23);
+            cboInicio.TabIndex = 2;
             // 
             // BtnEntrar
             // 
@@ -111,5 +122,6 @@
         private Label lblInicio;
         private PictureBox pictureBox1;
         private Button BtnEntrar;
+        private ComboBox cboInicio;
     }
 }

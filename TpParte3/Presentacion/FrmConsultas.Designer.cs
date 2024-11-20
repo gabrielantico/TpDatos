@@ -47,6 +47,7 @@ namespace TpParte3.Presentacion
             System.Windows.Forms.DataVisualization.Charting.Series series5 = new System.Windows.Forms.DataVisualization.Charting.Series();
             tabControl1 = new TabControl();
             Reporte1 = new TabPage();
+            btnVolver_1 = new Button();
             btnConsultar_1 = new Button();
             chart1 = new System.Windows.Forms.DataVisualization.Charting.Chart();
             dgv_1 = new DataGridView();
@@ -63,6 +64,7 @@ namespace TpParte3.Presentacion
             lblFecha2_1 = new Label();
             lblFecha1_1 = new Label();
             Reporte2 = new TabPage();
+            btnVolver_2 = new Button();
             chart2 = new System.Windows.Forms.DataVisualization.Charting.Chart();
             txtAprobados_2 = new TextBox();
             lblAprobados_2 = new Label();
@@ -85,6 +87,7 @@ namespace TpParte3.Presentacion
             lblPromedio_2 = new Label();
             txtPromedio_2 = new TextBox();
             Reporte3 = new TabPage();
+            btnVolver_3 = new Button();
             chart3 = new System.Windows.Forms.DataVisualization.Charting.Chart();
             dgv_3 = new DataGridView();
             Col1_3 = new DataGridViewTextBoxColumn();
@@ -102,6 +105,7 @@ namespace TpParte3.Presentacion
             cboTipoCarrera_3 = new ComboBox();
             lblTipoCarrera_3 = new Label();
             Reporte4 = new TabPage();
+            btnVolver_4 = new Button();
             chart4 = new System.Windows.Forms.DataVisualization.Charting.Chart();
             btnConsultar_4 = new Button();
             dgv_4 = new DataGridView();
@@ -119,6 +123,7 @@ namespace TpParte3.Presentacion
             lblFecha2_4 = new Label();
             lblFecha1_4 = new Label();
             Reporte5 = new TabPage();
+            btnVolver_5 = new Button();
             chart5 = new System.Windows.Forms.DataVisualization.Charting.Chart();
             dgv_5 = new DataGridView();
             Col1_5 = new DataGridViewTextBoxColumn();
@@ -165,11 +170,12 @@ namespace TpParte3.Presentacion
             tabControl1.Location = new Point(-8, -4);
             tabControl1.Name = "tabControl1";
             tabControl1.SelectedIndex = 0;
-            tabControl1.Size = new Size(1083, 675);
+            tabControl1.Size = new Size(1083, 727);
             tabControl1.TabIndex = 0;
             // 
             // Reporte1
             // 
+            Reporte1.Controls.Add(btnVolver_1);
             Reporte1.Controls.Add(btnConsultar_1);
             Reporte1.Controls.Add(chart1);
             Reporte1.Controls.Add(dgv_1);
@@ -185,10 +191,21 @@ namespace TpParte3.Presentacion
             Reporte1.Location = new Point(4, 24);
             Reporte1.Name = "Reporte1";
             Reporte1.Padding = new Padding(3);
-            Reporte1.Size = new Size(1075, 647);
+            Reporte1.Size = new Size(1075, 699);
             Reporte1.TabIndex = 0;
             Reporte1.Text = "Reporte 1";
             Reporte1.UseVisualStyleBackColor = true;
+            // 
+            // btnVolver_1
+            // 
+            btnVolver_1.Anchor = AnchorStyles.Bottom | AnchorStyles.Right;
+            btnVolver_1.Location = new Point(985, 660);
+            btnVolver_1.Name = "btnVolver_1";
+            btnVolver_1.Size = new Size(75, 23);
+            btnVolver_1.TabIndex = 12;
+            btnVolver_1.Text = "Volver";
+            btnVolver_1.UseVisualStyleBackColor = true;
+            btnVolver_1.Click += btnVolver_1_Click;
             // 
             // btnConsultar_1
             // 
@@ -215,7 +232,7 @@ namespace TpParte3.Presentacion
             series1.Legend = "Legend1";
             series1.Name = "Series1";
             chart1.Series.Add(series1);
-            chart1.Size = new Size(558, 317);
+            chart1.Size = new Size(558, 353);
             chart1.TabIndex = 11;
             chart1.Text = "chart1";
             // 
@@ -230,7 +247,7 @@ namespace TpParte3.Presentacion
             dgv_1.Name = "dgv_1";
             dgv_1.RowTemplate.Height = 25;
             dgv_1.SelectionMode = DataGridViewSelectionMode.FullRowSelect;
-            dgv_1.Size = new Size(343, 317);
+            dgv_1.Size = new Size(343, 353);
             dgv_1.TabIndex = 10;
             // 
             // Col1_1
@@ -341,6 +358,7 @@ namespace TpParte3.Presentacion
             // 
             // Reporte2
             // 
+            Reporte2.Controls.Add(btnVolver_2);
             Reporte2.Controls.Add(chart2);
             Reporte2.Controls.Add(txtAprobados_2);
             Reporte2.Controls.Add(lblAprobados_2);
@@ -360,10 +378,21 @@ namespace TpParte3.Presentacion
             Reporte2.Location = new Point(4, 24);
             Reporte2.Name = "Reporte2";
             Reporte2.Padding = new Padding(3);
-            Reporte2.Size = new Size(1075, 647);
+            Reporte2.Size = new Size(1075, 699);
             Reporte2.TabIndex = 1;
             Reporte2.Text = "Reporte 2";
             Reporte2.UseVisualStyleBackColor = true;
+            // 
+            // btnVolver_2
+            // 
+            btnVolver_2.Anchor = AnchorStyles.Bottom | AnchorStyles.Right;
+            btnVolver_2.Location = new Point(985, 660);
+            btnVolver_2.Name = "btnVolver_2";
+            btnVolver_2.Size = new Size(75, 23);
+            btnVolver_2.TabIndex = 16;
+            btnVolver_2.Text = "Volver";
+            btnVolver_2.UseVisualStyleBackColor = true;
+            btnVolver_2.Click += btnVolver_2_Click;
             // 
             // chart2
             // 
@@ -381,7 +410,7 @@ namespace TpParte3.Presentacion
             series2.Name = "Series1";
             series2.YValuesPerPoint = 4;
             chart2.Series.Add(series2);
-            chart2.Size = new Size(354, 268);
+            chart2.Size = new Size(354, 304);
             chart2.TabIndex = 15;
             chart2.Tag = "";
             chart2.Text = "Exámenes Aprobados";
@@ -428,7 +457,7 @@ namespace TpParte3.Presentacion
             dgv_2.Name = "dgv_2";
             dgv_2.RowTemplate.Height = 25;
             dgv_2.SelectionMode = DataGridViewSelectionMode.FullRowSelect;
-            dgv_2.Size = new Size(548, 268);
+            dgv_2.Size = new Size(548, 304);
             dgv_2.TabIndex = 14;
             // 
             // Col1_2
@@ -571,6 +600,7 @@ namespace TpParte3.Presentacion
             // 
             // Reporte3
             // 
+            Reporte3.Controls.Add(btnVolver_3);
             Reporte3.Controls.Add(chart3);
             Reporte3.Controls.Add(dgv_3);
             Reporte3.Controls.Add(btnConsultar_3);
@@ -586,10 +616,21 @@ namespace TpParte3.Presentacion
             Reporte3.Location = new Point(4, 24);
             Reporte3.Name = "Reporte3";
             Reporte3.Padding = new Padding(3);
-            Reporte3.Size = new Size(1075, 647);
+            Reporte3.Size = new Size(1075, 699);
             Reporte3.TabIndex = 2;
             Reporte3.Text = "Reporte 3";
             Reporte3.UseVisualStyleBackColor = true;
+            // 
+            // btnVolver_3
+            // 
+            btnVolver_3.Anchor = AnchorStyles.Bottom | AnchorStyles.Right;
+            btnVolver_3.Location = new Point(985, 660);
+            btnVolver_3.Name = "btnVolver_3";
+            btnVolver_3.Size = new Size(75, 23);
+            btnVolver_3.TabIndex = 13;
+            btnVolver_3.Text = "Volver";
+            btnVolver_3.UseVisualStyleBackColor = true;
+            btnVolver_3.Click += btnVolver_3_Click;
             // 
             // chart3
             // 
@@ -605,7 +646,7 @@ namespace TpParte3.Presentacion
             series3.Legend = "Legend1";
             series3.Name = "Series1";
             chart3.Series.Add(series3);
-            chart3.Size = new Size(464, 317);
+            chart3.Size = new Size(464, 345);
             chart3.TabIndex = 11;
             chart3.Text = "chart3";
             // 
@@ -620,7 +661,7 @@ namespace TpParte3.Presentacion
             dgv_3.Name = "dgv_3";
             dgv_3.RowTemplate.Height = 25;
             dgv_3.SelectionMode = DataGridViewSelectionMode.FullRowSelect;
-            dgv_3.Size = new Size(444, 317);
+            dgv_3.Size = new Size(444, 345);
             dgv_3.TabIndex = 10;
             // 
             // Col1_3
@@ -757,6 +798,7 @@ namespace TpParte3.Presentacion
             // 
             // Reporte4
             // 
+            Reporte4.Controls.Add(btnVolver_4);
             Reporte4.Controls.Add(chart4);
             Reporte4.Controls.Add(btnConsultar_4);
             Reporte4.Controls.Add(dgv_4);
@@ -772,10 +814,21 @@ namespace TpParte3.Presentacion
             Reporte4.Location = new Point(4, 24);
             Reporte4.Name = "Reporte4";
             Reporte4.Padding = new Padding(3);
-            Reporte4.Size = new Size(1075, 647);
+            Reporte4.Size = new Size(1075, 699);
             Reporte4.TabIndex = 3;
             Reporte4.Text = "Reporte 4";
             Reporte4.UseVisualStyleBackColor = true;
+            // 
+            // btnVolver_4
+            // 
+            btnVolver_4.Anchor = AnchorStyles.Bottom | AnchorStyles.Right;
+            btnVolver_4.Location = new Point(985, 660);
+            btnVolver_4.Name = "btnVolver_4";
+            btnVolver_4.Size = new Size(75, 23);
+            btnVolver_4.TabIndex = 13;
+            btnVolver_4.Text = "Volver";
+            btnVolver_4.UseVisualStyleBackColor = true;
+            btnVolver_4.Click += btnVolver_4_Click;
             // 
             // chart4
             // 
@@ -791,7 +844,7 @@ namespace TpParte3.Presentacion
             series4.Legend = "Legend1";
             series4.Name = "Series1";
             chart4.Series.Add(series4);
-            chart4.Size = new Size(457, 317);
+            chart4.Size = new Size(457, 353);
             chart4.TabIndex = 11;
             chart4.Text = "chart4";
             // 
@@ -817,7 +870,7 @@ namespace TpParte3.Presentacion
             dgv_4.Name = "dgv_4";
             dgv_4.RowTemplate.Height = 25;
             dgv_4.SelectionMode = DataGridViewSelectionMode.FullRowSelect;
-            dgv_4.Size = new Size(444, 317);
+            dgv_4.Size = new Size(444, 353);
             dgv_4.TabIndex = 10;
             // 
             // Col1_4
@@ -934,6 +987,7 @@ namespace TpParte3.Presentacion
             // 
             // Reporte5
             // 
+            Reporte5.Controls.Add(btnVolver_5);
             Reporte5.Controls.Add(chart5);
             Reporte5.Controls.Add(dgv_5);
             Reporte5.Controls.Add(btnConsultar_5);
@@ -949,10 +1003,21 @@ namespace TpParte3.Presentacion
             Reporte5.Location = new Point(4, 24);
             Reporte5.Name = "Reporte5";
             Reporte5.Padding = new Padding(3);
-            Reporte5.Size = new Size(1075, 647);
+            Reporte5.Size = new Size(1075, 699);
             Reporte5.TabIndex = 4;
             Reporte5.Text = "Reporte 5";
             Reporte5.UseVisualStyleBackColor = true;
+            // 
+            // btnVolver_5
+            // 
+            btnVolver_5.Anchor = AnchorStyles.Bottom | AnchorStyles.Right;
+            btnVolver_5.Location = new Point(985, 660);
+            btnVolver_5.Name = "btnVolver_5";
+            btnVolver_5.Size = new Size(75, 23);
+            btnVolver_5.TabIndex = 13;
+            btnVolver_5.Text = "Volver";
+            btnVolver_5.UseVisualStyleBackColor = true;
+            btnVolver_5.Click += btnVolver_5_Click;
             // 
             // chart5
             // 
@@ -969,7 +1034,7 @@ namespace TpParte3.Presentacion
             series5.Name = "Series1";
             series5.YValuesPerPoint = 6;
             chart5.Series.Add(series5);
-            chart5.Size = new Size(352, 317);
+            chart5.Size = new Size(352, 350);
             chart5.TabIndex = 11;
             chart5.Text = "chart5";
             // 
@@ -984,7 +1049,7 @@ namespace TpParte3.Presentacion
             dgv_5.Name = "dgv_5";
             dgv_5.RowTemplate.Height = 25;
             dgv_5.SelectionMode = DataGridViewSelectionMode.FullRowSelect;
-            dgv_5.Size = new Size(544, 317);
+            dgv_5.Size = new Size(544, 350);
             dgv_5.TabIndex = 10;
             // 
             // Col1_5
@@ -1119,7 +1184,7 @@ namespace TpParte3.Presentacion
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(1068, 663);
+            ClientSize = new Size(1068, 715);
             Controls.Add(tabControl1);
             MinimumSize = new Size(1084, 702);
             Name = "FrmConsultas";
@@ -1244,5 +1309,10 @@ namespace TpParte3.Presentacion
         private DataGridViewTextBoxColumn Col1_1;
         private DataGridViewTextBoxColumn Col2_1;
         private DataGridViewTextBoxColumn Col3_1;
+        private Button btnVolver_1;
+        private Button btnVolver_2;
+        private Button btnVolver_3;
+        private Button btnVolver_4;
+        private Button btnVolver_5;
     }
 }

@@ -214,11 +214,11 @@ namespace TpParte3.Presentacion
                     chart1.Titles.Add("Cantidad de exámenes aprobados");
                 }
                 else
-                {      
+                {
                     chart1.Titles.Add("Cantidad de exámenes desaprobados");
                 }
 
-                
+
 
                 List<string> nombres = new List<string>();
 
@@ -240,7 +240,7 @@ namespace TpParte3.Presentacion
                 }
             }
             else
-            { 
+            {
                 errorProvider.SetError(btnConsultar_1, "No se encontraron registros para mostrar.");
             }
         }
@@ -510,7 +510,7 @@ namespace TpParte3.Presentacion
                 return;
             }
 
-            if(Convert.ToDouble(txtPromedio_4.Text) > 10)
+            if (Convert.ToDouble(txtPromedio_4.Text) > 10)
             {
                 MessageBox.Show("Promedio máximo admitido: 10", "Advertencia", MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
             }
@@ -678,6 +678,51 @@ namespace TpParte3.Presentacion
                     MessageBox.Show("Solo se admiten números decimales", "Advertencia", MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
                     e.Cancel = true;
                 }
+            }
+        }
+
+        private void btnVolver_5_Click(object sender, EventArgs e)
+        {
+            DialogResult result = MessageBox.Show("¿Seguro que desea volver atrás?", "Confirmación", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
+            if (result == DialogResult.Yes)
+            {
+                this.Close();
+            }
+        }
+
+        private void btnVolver_4_Click(object sender, EventArgs e)
+        {
+            DialogResult result = MessageBox.Show("¿Seguro que desea volver atrás?", "Confirmación", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
+            if (result == DialogResult.Yes)
+            {
+                this.Close();
+            }
+        }
+
+        private void btnVolver_3_Click(object sender, EventArgs e)
+        {
+            DialogResult result = MessageBox.Show("¿Seguro que desea volver atrás?", "Confirmación", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
+            if (result == DialogResult.Yes)
+            {
+                this.Close();
+            }
+        }
+
+        private void btnVolver_2_Click(object sender, EventArgs e)
+        {
+            DialogResult result = MessageBox.Show("¿Seguro que desea volver atrás?", "Confirmación", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
+            if (result == DialogResult.Yes)
+            {
+                this.Close();
+            }
+        }
+
+        private void btnVolver_1_Click(object sender, EventArgs e)
+        {
+            DialogResult result = MessageBox.Show("¿Seguro que desea volver atrás?", "Confirmación", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
+            if (result == DialogResult.Yes)
+            {
+                this.Close();
             }
         }
     }

@@ -26,3 +26,5 @@ D:\Gabi\Usuarios\Facultad\2do Cuatrimestre\Bases de datos I\TPI\TpParte3\TpParte
 D:\Gabi\Usuarios\Facultad\2do Cuatrimestre\Bases de datos I\TPI\TpParte3\TpParte3\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
 D:\Gabi\Usuarios\Facultad\2do Cuatrimestre\Bases de datos I\TPI\TpParte3\TpParte3\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\System.Data.SqlClient.dll
 D:\Gabi\Usuarios\Facultad\2do Cuatrimestre\Bases de datos I\TPI\TpParte3\TpParte3\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Data.SqlClient.dll
+D:\Gabi\Usuarios\Facultad\2do Cuatrimestre\Bases de datos I\TPI\TpParte3\TpParte3\obj\Debug\net6.0-windows\TpParte3.sourcelink.json
+D:\Gabi\Usuarios\Facultad\2do Cuatrimestre\Bases de datos I\TPI\TpParte3\TpParte3\obj\Debug\net6.0-windows\TpParte3.Presentacion.FrmNosotros.resources
