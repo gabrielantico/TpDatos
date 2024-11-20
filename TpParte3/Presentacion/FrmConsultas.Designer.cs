@@ -29,22 +29,22 @@ namespace TpParte3.Presentacion
         /// </summary>
         private void InitializeComponent()
         {
-            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea1 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
-            System.Windows.Forms.DataVisualization.Charting.Legend legend1 = new System.Windows.Forms.DataVisualization.Charting.Legend();
-            System.Windows.Forms.DataVisualization.Charting.Series series1 = new System.Windows.Forms.DataVisualization.Charting.Series();
+            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea8 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
+            System.Windows.Forms.DataVisualization.Charting.Legend legend8 = new System.Windows.Forms.DataVisualization.Charting.Legend();
+            System.Windows.Forms.DataVisualization.Charting.Series series8 = new System.Windows.Forms.DataVisualization.Charting.Series();
+            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea9 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
+            System.Windows.Forms.DataVisualization.Charting.Legend legend9 = new System.Windows.Forms.DataVisualization.Charting.Legend();
+            System.Windows.Forms.DataVisualization.Charting.Series series9 = new System.Windows.Forms.DataVisualization.Charting.Series();
+            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea10 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
+            System.Windows.Forms.DataVisualization.Charting.Legend legend10 = new System.Windows.Forms.DataVisualization.Charting.Legend();
+            System.Windows.Forms.DataVisualization.Charting.Series series10 = new System.Windows.Forms.DataVisualization.Charting.Series();
+            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea6 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
+            System.Windows.Forms.DataVisualization.Charting.Legend legend6 = new System.Windows.Forms.DataVisualization.Charting.Legend();
+            System.Windows.Forms.DataVisualization.Charting.Series series6 = new System.Windows.Forms.DataVisualization.Charting.Series();
+            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea7 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
+            System.Windows.Forms.DataVisualization.Charting.Legend legend7 = new System.Windows.Forms.DataVisualization.Charting.Legend();
+            System.Windows.Forms.DataVisualization.Charting.Series series7 = new System.Windows.Forms.DataVisualization.Charting.Series();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(FrmConsultas));
-            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea2 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
-            System.Windows.Forms.DataVisualization.Charting.Legend legend2 = new System.Windows.Forms.DataVisualization.Charting.Legend();
-            System.Windows.Forms.DataVisualization.Charting.Series series2 = new System.Windows.Forms.DataVisualization.Charting.Series();
-            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea3 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
-            System.Windows.Forms.DataVisualization.Charting.Legend legend3 = new System.Windows.Forms.DataVisualization.Charting.Legend();
-            System.Windows.Forms.DataVisualization.Charting.Series series3 = new System.Windows.Forms.DataVisualization.Charting.Series();
-            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea4 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
-            System.Windows.Forms.DataVisualization.Charting.Legend legend4 = new System.Windows.Forms.DataVisualization.Charting.Legend();
-            System.Windows.Forms.DataVisualization.Charting.Series series4 = new System.Windows.Forms.DataVisualization.Charting.Series();
-            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea5 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
-            System.Windows.Forms.DataVisualization.Charting.Legend legend5 = new System.Windows.Forms.DataVisualization.Charting.Legend();
-            System.Windows.Forms.DataVisualization.Charting.Series series5 = new System.Windows.Forms.DataVisualization.Charting.Series();
             tabControl1 = new TabControl();
             Reporte1 = new TabPage();
             btnVolver_1 = new Button();
@@ -221,17 +221,17 @@ namespace TpParte3.Presentacion
             // chart1
             // 
             chart1.Anchor = AnchorStyles.Top | AnchorStyles.Bottom | AnchorStyles.Left | AnchorStyles.Right;
-            chartArea1.Name = "ChartArea1";
-            chart1.ChartAreas.Add(chartArea1);
-            legend1.Name = "Legend1";
-            chart1.Legends.Add(legend1);
+            chartArea8.Name = "ChartArea1";
+            chart1.ChartAreas.Add(chartArea8);
+            legend8.Name = "Legend1";
+            chart1.Legends.Add(legend8);
             chart1.Location = new Point(445, 283);
             chart1.Name = "chart1";
-            series1.ChartArea = "ChartArea1";
-            series1.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Pie;
-            series1.Legend = "Legend1";
-            series1.Name = "Series1";
-            chart1.Series.Add(series1);
+            series8.ChartArea = "ChartArea1";
+            series8.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Pie;
+            series8.Legend = "Legend1";
+            series8.Name = "Series1";
+            chart1.Series.Add(series8);
             chart1.Size = new Size(558, 353);
             chart1.TabIndex = 11;
             chart1.Text = "chart1";
@@ -397,19 +397,19 @@ namespace TpParte3.Presentacion
             // chart2
             // 
             chart2.Anchor = AnchorStyles.Top | AnchorStyles.Bottom | AnchorStyles.Left | AnchorStyles.Right;
-            chartArea2.Name = "ChartArea1";
-            chart2.ChartAreas.Add(chartArea2);
-            legend2.Name = "Legend1";
-            chart2.Legends.Add(legend2);
+            chartArea9.Name = "ChartArea1";
+            chart2.ChartAreas.Add(chartArea9);
+            legend9.Name = "Legend1";
+            chart2.Legends.Add(legend9);
             chart2.Location = new Point(650, 333);
             chart2.Name = "chart2";
             chart2.Palette = System.Windows.Forms.DataVisualization.Charting.ChartColorPalette.EarthTones;
-            series2.ChartArea = "ChartArea1";
-            series2.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Doughnut;
-            series2.Legend = "Legend1";
-            series2.Name = "Series1";
-            series2.YValuesPerPoint = 4;
-            chart2.Series.Add(series2);
+            series9.ChartArea = "ChartArea1";
+            series9.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Doughnut;
+            series9.Legend = "Legend1";
+            series9.Name = "Series1";
+            series9.YValuesPerPoint = 4;
+            chart2.Series.Add(series9);
             chart2.Size = new Size(354, 304);
             chart2.TabIndex = 15;
             chart2.Tag = "";
@@ -516,7 +516,7 @@ namespace TpParte3.Presentacion
             label1.AutoSize = true;
             label1.Location = new Point(72, 82);
             label1.Name = "label1";
-            label1.Size = new Size(665, 30);
+            label1.Size = new Size(681, 30);
             label1.TabIndex = 1;
             label1.Text = resources.GetString("label1.Text");
             // 
@@ -635,17 +635,17 @@ namespace TpParte3.Presentacion
             // chart3
             // 
             chart3.Anchor = AnchorStyles.Top | AnchorStyles.Bottom | AnchorStyles.Left | AnchorStyles.Right;
-            chartArea3.Name = "ChartArea1";
-            chart3.ChartAreas.Add(chartArea3);
-            legend3.Name = "Legend1";
-            chart3.Legends.Add(legend3);
+            chartArea10.Name = "ChartArea1";
+            chart3.ChartAreas.Add(chartArea10);
+            legend10.Name = "Legend1";
+            chart3.Legends.Add(legend10);
             chart3.Location = new Point(540, 283);
             chart3.Name = "chart3";
-            series3.ChartArea = "ChartArea1";
-            series3.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Pyramid;
-            series3.Legend = "Legend1";
-            series3.Name = "Series1";
-            chart3.Series.Add(series3);
+            series10.ChartArea = "ChartArea1";
+            series10.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Pyramid;
+            series10.Legend = "Legend1";
+            series10.Name = "Series1";
+            chart3.Series.Add(series10);
             chart3.Size = new Size(464, 345);
             chart3.TabIndex = 11;
             chart3.Text = "chart3";
@@ -705,7 +705,7 @@ namespace TpParte3.Presentacion
             label3.AutoSize = true;
             label3.Location = new Point(72, 82);
             label3.Name = "label3";
-            label3.Size = new Size(629, 30);
+            label3.Size = new Size(645, 30);
             label3.TabIndex = 1;
             label3.Text = resources.GetString("label3.Text");
             // 
@@ -833,17 +833,17 @@ namespace TpParte3.Presentacion
             // chart4
             // 
             chart4.Anchor = AnchorStyles.Top | AnchorStyles.Bottom | AnchorStyles.Left | AnchorStyles.Right;
-            chartArea4.Name = "ChartArea1";
-            chart4.ChartAreas.Add(chartArea4);
-            legend4.Name = "Legend1";
-            chart4.Legends.Add(legend4);
+            chartArea6.Name = "ChartArea1";
+            chart4.ChartAreas.Add(chartArea6);
+            legend6.Name = "Legend1";
+            chart4.Legends.Add(legend6);
             chart4.Location = new Point(544, 283);
             chart4.Name = "chart4";
-            series4.ChartArea = "ChartArea1";
-            series4.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Funnel;
-            series4.Legend = "Legend1";
-            series4.Name = "Series1";
-            chart4.Series.Add(series4);
+            series6.ChartArea = "ChartArea1";
+            series6.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Funnel;
+            series6.Legend = "Legend1";
+            series6.Name = "Series1";
+            chart4.Series.Add(series6);
             chart4.Size = new Size(457, 353);
             chart4.TabIndex = 11;
             chart4.Text = "chart4";
@@ -903,9 +903,9 @@ namespace TpParte3.Presentacion
             lblExplicacion_4.AutoSize = true;
             lblExplicacion_4.Location = new Point(72, 82);
             lblExplicacion_4.Name = "lblExplicacion_4";
-            lblExplicacion_4.Size = new Size(143, 15);
+            lblExplicacion_4.Size = new Size(608, 30);
             lblExplicacion_4.TabIndex = 1;
-            lblExplicacion_4.Text = "Explicación de la consulta";
+            lblExplicacion_4.Text = "Explicación: Se motrarán las materias con mas inasistencias en un periodo determinado, dictadas por profes cuyos\r\nexamenes promedien mas de cierto número.";
             // 
             // lblConsulta_4
             // 
@@ -1022,18 +1022,18 @@ namespace TpParte3.Presentacion
             // chart5
             // 
             chart5.Anchor = AnchorStyles.Top | AnchorStyles.Bottom | AnchorStyles.Left | AnchorStyles.Right;
-            chartArea5.Name = "ChartArea1";
-            chart5.ChartAreas.Add(chartArea5);
-            legend5.Name = "Legend1";
-            chart5.Legends.Add(legend5);
+            chartArea7.Name = "ChartArea1";
+            chart5.ChartAreas.Add(chartArea7);
+            legend7.Name = "Legend1";
+            chart5.Legends.Add(legend7);
             chart5.Location = new Point(646, 283);
             chart5.Name = "chart5";
-            series5.ChartArea = "ChartArea1";
-            series5.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Pie;
-            series5.Legend = "Legend1";
-            series5.Name = "Series1";
-            series5.YValuesPerPoint = 6;
-            chart5.Series.Add(series5);
+            series7.ChartArea = "ChartArea1";
+            series7.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Pie;
+            series7.Legend = "Legend1";
+            series7.Name = "Series1";
+            series7.YValuesPerPoint = 6;
+            chart5.Series.Add(series7);
             chart5.Size = new Size(352, 350);
             chart5.TabIndex = 11;
             chart5.Text = "chart5";
@@ -1099,9 +1099,9 @@ namespace TpParte3.Presentacion
             lblExplicacion_5.AutoSize = true;
             lblExplicacion_5.Location = new Point(72, 82);
             lblExplicacion_5.Name = "lblExplicacion_5";
-            lblExplicacion_5.Size = new Size(143, 15);
+            lblExplicacion_5.Size = new Size(776, 30);
             lblExplicacion_5.TabIndex = 1;
-            lblExplicacion_5.Text = "Explicación de la consulta";
+            lblExplicacion_5.Text = resources.GetString("lblExplicacion_5.Text");
             // 
             // lblConsulta_5
             // 
